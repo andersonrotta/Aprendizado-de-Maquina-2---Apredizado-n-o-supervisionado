@@ -21,3 +21,7 @@ Como método de amostragem, deve ser utilizado holdout de 70% das imagens para
 treinamento e 30% para os testes (as imagens tanto de treino, como de testes, devem ser
 sorteadas aleatoriamente).
 
+link para acesso ao colab: https://colab.research.google.com/drive/1wJv1AkxUSGybjZEjicXTKeyol1i-TWzn?usp=sharing
+
+Inserir as fotos completas no "content" do google colab, esperar carregar e inserir o codigo que está na raiz deste repositorio.
+Codigo ainda em testes, não está pronto.
